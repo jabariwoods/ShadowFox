@@ -1,2 +1,3 @@
 # ShadowFox
-Internship Tasks
+Python Development Internship Tasks for Week1 through 3. 
+
