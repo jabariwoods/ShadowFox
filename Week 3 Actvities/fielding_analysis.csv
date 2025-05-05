@@ -1,0 +1,4 @@
+over,ball,fielder,action,outcome
+1,2,PlayerA,catch,success
+3,5,PlayerB,run out,failure
+7,1,PlayerC,stop,success
